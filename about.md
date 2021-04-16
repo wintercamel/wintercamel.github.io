@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-7년차 개발자의 개발 블로그
+어느새 7년차 개발자입니다.
 
 VMware 기반의 Private Cloud 환경의 DaaS(Desktop as a Service) 구축 및 운영을 위한 포탈 서비스를 개발하였습니다.
 
